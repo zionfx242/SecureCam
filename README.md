@@ -12,7 +12,11 @@ SecureCam is a Python-based security application that uses computer vision to de
 To use SecureCam, you need to have Python and OpenCV installed on your computer. Follow these steps to set up:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies with `pip install -r requirements.txt`.
+
+2. Install the required dependencies:
+   `pip install opencv-python`
+   `pip install opencv-contrib-python`
+   
 3. Run the script with `python main.py`.
 
 ## Usage
