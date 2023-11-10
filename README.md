@@ -27,4 +27,4 @@ Contributions to SecureCam are welcome! Feel free to fork the repository and sub
 
 ## License
 
-SecureCam is released under the MIT License. See the LICENSE file for more details.
+SecureCam is released under the Apache-2.0 license. See the LICENSE file for more details.
